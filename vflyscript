@@ -90,7 +90,7 @@ ddnsfbfwewefe.Size = UDim2.new(0, 237, 0, 27)
 
 ddnsfbfwewefe.Font = Enum.Font.SourceSans
 
-ddnsfbfwewefe.Text = "nox🐙"
+ddnsfbfwewefe.Text = "Admin汉化"
 
 ddnsfbfwewefe.TextColor3 = Color3.fromRGB(0,0,0)
 
@@ -210,7 +210,7 @@ Speeed.TextSize = 14.000
 
 Speeed.TextWrapped = true
 
-Stat.Name = "Stat"
+Stat.Name = "点击一下开始飞车"
 
 Stat.Parent = FlyFrame
 
@@ -258,7 +258,7 @@ Stat2.TextSize = 14.000
 
 Stat2.TextWrapped = true
 
-Unfly.Name = "Unfly"
+Unfly.Name = "点击一下关闭飞车"
 
 Unfly.Parent = FlyFrame
 
